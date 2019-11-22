@@ -9,7 +9,9 @@
 	"theme_color":		"#2c2f33",
         "dir": 			"ltr",
         "lang": 		"ja-jp",
-	"display":"standalone",
+	"display":		"standalone",
+	"related_applications": [ ],
+	"prefer_related_applications": false,
 	"icons": [
 		{
 			"src": "/favicons/android-chrome-36x36.png",
