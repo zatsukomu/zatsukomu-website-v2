@@ -2,16 +2,6 @@
 	"name":			"雑コム！ウェブサイト",
 	"short_name":		"雑コム！サイト",
 	"description":		"雑コム！の公式サイトです。雑コム！は、Discordサーバーです。",
-	"start_url":		"/",
-	"display":		"standalone",
-	"orientation":		"any",
-	"background_color":	"#2c2f33",
-	"theme_color":		"#2c2f33",
-        "dir": 			"ltr",
-        "lang": 		"ja-jp",
-	"display":		"standalone",
-	"related_applications": [ ],
-	"prefer_related_applications": false,
 	"icons": [
 		{
 			"src": "/favicons/android-chrome-36x36.png",
@@ -68,5 +58,15 @@
 			"sizes": "512x512",
 			"type": "image/png"
 		}
-	]
+	],
+	"start_url":		"/",
+	"display":		"minimal-ui",
+	"orientation":		"any",
+	"background_color":	"#2c2f33",
+	"theme_color":		"#2c2f33",
+        "dir": 			"ltr",
+        "lang": 		"ja-jp",
+	"display":		"standalone",
+	"related_applications": [ ],
+	"prefer_related_applications": false,
 }
